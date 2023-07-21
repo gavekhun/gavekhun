@@ -29,11 +29,16 @@
 ##
 
 <div>
-   <a href="https://instagram.com/gavekhun" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gavekhun" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/gavekhun" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/ykmEx7R9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrieltiburcio@ufrj.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrieltiburcio-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=gavekhun\&repo=HomeSpotify\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)(https://github.com/gavekhun/HomeSpotify)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=gavekhun\&repo=POO23.1-Trabalho\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
