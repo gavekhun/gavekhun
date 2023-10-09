@@ -37,5 +37,7 @@
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7F7F7&width=1000&height=60&lines=%F0%9F%91%8B+Obrigado+por+me+visitar!)](https://git.io/typing-svg)
+
 
 
