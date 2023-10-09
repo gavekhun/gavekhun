@@ -1,5 +1,7 @@
 ### Olá, Sou Gabriel Tiburcio!
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Gabriel,+and+i+am+a+backend+dev)
+
 
 
 - 🔭 Eu atualmente estou trabalhando em ser Desenvolvedor fullstack
