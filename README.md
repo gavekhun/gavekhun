@@ -11,7 +11,7 @@
   <a href="https://github.com/gavekhun">
   <img height="180em" src="https://readme-stats-git-main-14g0.vercel.app/api?username=gavekhun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
   <img height="180em" src="https://readme-stats-git-main-14g0.vercel.app/api/top-langs/?username=gavekhun&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=gavekhun&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=gavekhun&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
   
 </div>
 
