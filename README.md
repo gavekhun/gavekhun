@@ -32,13 +32,19 @@
       <tbody>
         <tr>
           <td align="center">
-            <img alt="React" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+            <a href="https://reactjs.org/" target="_blank" rel="opener">
+              <img alt="React" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+            </a>
           </td>
           <td align="center">
-            <img align="center" alt="Java" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+            <a href="https://www.java.com/pt-BR/" target="_blank" rel="opener">
+              <img align="center" alt="Java" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+            </a>
           </td>
           <td align="center">
-            <img align="center" alt="CSS" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="opener">
+              <img align="center" alt="CSS" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+            </a>
           </td>
           <td align="center">
             <img align="center" alt="MySQL" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
@@ -49,10 +55,14 @@
         </tr>
         <tr>
           <td align="center">
-            <img align="center" alt="HTML" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+            <a href="https://www.w3schools.com/html/" target="_blank" rel="opener">
+              <img align="center" alt="HTML" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+            </a>
           </td>
           <td align="center">
-            <img align="center" alt="Python" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+            <a href="https://www.python.org" target="_blank" rel="opener">
+              <img align="center" alt="Python" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+            </a>
           </td>
           <td align="center">
             <img align="center" alt="NestJs" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg">
@@ -72,7 +82,7 @@
             <img align="center" alt="Flask" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
           </td>
           <td align="center">
-            -
+            <img align="center" alt="Style-components" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg">
           </td>
           <td align="center">
             <img align="center" alt="MongoDB" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
@@ -83,7 +93,9 @@
         </tr>
         <tr>
           <td align="center">
-            <img align="center" alt="Js" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="opener">
+              <img align="center" alt="Js" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+            </a>
           </td>
           <td align="center">
             <img align="center" alt="Js" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg">
@@ -103,7 +115,9 @@
             -
           </td>
           <td align="center">
-            <img align="center" alt="Nodejs" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+            <a href="https://nodejs.org" target="_blank" rel="opener">
+              <img align="center" alt="Nodejs" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+            </a>
           </td>
            <td align="center">
             -
