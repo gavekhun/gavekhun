@@ -18,14 +18,19 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
-  <img align="center" alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"
+  <img align="center" alt="Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <img align="center" alt="Flask" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
+  <img align="center" alt="Grafana" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg">
+  <img align="center" alt="Jenkins" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg">
+  <img align="center" alt="Kubernetes" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg">
+  <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 </div>
 
 ##
