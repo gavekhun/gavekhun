@@ -16,26 +16,35 @@
   
 </div>
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Ts" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
-  <img align="center" alt="React" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img align="center" alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="CSS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="C" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">  
-  <img align="center" alt="Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="Docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-  <img align="center" alt="Flask" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
-  <img align="center" alt="Grafana" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg">
-  <img align="center" alt="Jenkins" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg">
-  <img align="center" alt="Kubernetes" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg">
-  <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-  <img align="center" alt="MongoDB" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-  <img align="center" alt="Redis" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg">
-  <img align="center" alt="Postgresql" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
-</div>
-
+<table align="center">
+  <thead>
+        <tr>
+            <th align="center">FRONTEND</th>
+            <th align="center">BACKEND</th>
+            <th align="center">STYLES</th>
+            <th align="center">DATABASES</th>
+            <th align="center">TOOLS</th>
+        </tr>
+    </thead>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+    <img align="center" alt="Ts" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+    <img align="center" alt="React" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
+    <img align="center" alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+    <img align="center" alt="CSS" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+    <img align="center" alt="C" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg">  
+    <img align="center" alt="Java" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+    <img align="center" alt="Docker" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+    <img align="center" alt="Flask" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg">
+    <img align="center" alt="Grafana" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg">
+    <img align="center" alt="Jenkins" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg">
+    <img align="center" alt="Kubernetes" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg">
+    <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+    <img align="center" alt="MongoDB" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+    <img align="center" alt="Redis" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg">
+    <img align="center" alt="Postgresql" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
+  </div>
+</table>
 ##
 
 <div>
