@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7F7F7&width=1000&height=60&lines=%F0%9F%91%8B+Oie+sou+Gabriel+Tiburcio+e+sou+desenvolvedor+back+end!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7F7F7&width=1000&height=60&lines=%F0%9F%91%8B+Oie+sou+Gabriel+Tiburcio+e+sou+desenvolvedor+de+software!!)](https://git.io/typing-svg)
 
 
 - 🔭 Eu atualmente estou trabalhando em ser Desenvolvedor fullstack
